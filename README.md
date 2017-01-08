@@ -1,5 +1,5 @@
-# Firebase: Build a Real Time Web Chat App Codelab - Start code
+# ChirpUp
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+Landing: http://yuxiangdai.ca/chirp-up-landing/
+App: https://fierce-woodland-24253.herokuapp.com/
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
